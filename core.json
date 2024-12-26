@@ -1,9 +1,9 @@
 [
   {
-    "id":"com.spaceofnova.files",
-    "name":"Files",
-    "version":"1.0",
-    "description":"A simple file manager",
-    "dataPath":"https://raw.githubusercontent.com/spaceofnova/linux-react-store/main/com.spaceofnova.files/index.js"
+    "id": "com.system.files",
+    "name": "Files",
+    "version": "1.0",
+    "description": "A simple file manager",
+    "dataPath": "https://raw.githubusercontent.com/spaceofnova/linux-react-store/main/com.system.files/index.js"
   }
 ]
